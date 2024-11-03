@@ -1,13 +1,22 @@
 // Array of project data
 const projects = [
     {
-      title: "Project 1 Title",
+      title: "DailyTaskManager",
       image: "images/project1.jpg",
-      description: "Brief description of Project 1.",
+      description: "Created a website to easily manage tasks using a calendar",
       techStack: "HTML, CSS, JavaScript",
       liveDemo: "#",
       github: "https://github.com/HeirBeam/NewTaskManagementWebsite"
     },
+
+    {
+        title: "ColdTurkey",
+        image: "images/project2.jpg",
+        description: "Created a chrome extension that automatically deletes specified webpages after a set time",
+        techStack: "HTML, CSS, JavaScript",
+        liveDemo: "#",
+        github: "https://github.com/HeirBeam/Chromeapp-ColdTurkey"
+      },
     // Add more project objects as needed
   ];
   
