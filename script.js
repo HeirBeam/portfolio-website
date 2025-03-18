@@ -32,6 +32,22 @@ const projects = [
         github: "https://github.com/HeirBeam/Chromeapp-ColdTurkey"
     },
 
+    {
+      title: "Python-MiniGames",
+        //image: "images/project2.jpg",
+        description: "Test your memory, reflexes, and logic with this fun Mini Game Collection! Featuring three unique games—Sequence Memory, Arrow Grid, and Shape & Number Challenge—each designed to challenge your brain in different ways. Play through increasing difficulty levels, react quickly, and sharpen your cognitive skills. Simple to play, hard to master!",
+        techStack: "Python",
+        github: "https://github.com/HeirBeam/GamesTesting"
+    },
+
+    {
+      title: "Unity Game",
+        //image: "images/project2.jpg",
+        description: "A 2D Action Platformer I created to help learn develop C# programming and game development skills.",
+        techStack: "C#",
+        github: "https://github.com/HeirBeam/UnityGame"
+    },
+
     // Add more project objects as needed
   ];
   
